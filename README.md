@@ -1,4 +1,6 @@
-# jelloss.github.io
+theme: jekyll-theme-cayman
+title: Welcome to the Jellos homepage !
+
 
 Hello for now this is just a experiment but here will be my portfolio of what i can do and what i have learned so far.
 
